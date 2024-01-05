@@ -1,2 +1,2 @@
-### hello guy's I'm a programmer with well knowledge of python,html,css,js,c,java. here I'm to provide you some Android applications
-Follow me on telegram: https://t.me/AndroidPortWorld
+### hello guy's I'm a Developer with well knowledge of python,html,css,js,c,java,kotlin. here I'm to provide you some Android applications
+Follow my channel on telegram: https://t.me/AndroidPortWorld
